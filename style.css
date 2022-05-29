@@ -367,18 +367,25 @@ section {
     margin-left: 8px;
   }
 
+  .image-container2,
+  .image-container3 {
+    padding: 15px 0px;
+    display: flex;
+    gap: 20px;
+  }
+
   .fig5 {
     width: 320px;
     height: 350px;
   }
 
   .fig4 {
-    width: 110px;
+    width: 120px;
     height: 180px;
   }
 
   .fig2 {
-    width: 170px;
+    width: 180px;
     height: 180px;
   }
 
