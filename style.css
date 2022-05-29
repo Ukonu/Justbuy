@@ -335,10 +335,10 @@ section {
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
+    cursor: pointer;
     height: 90vh;
     margin: auto;
 
-    transition: 0.5s;
     transition: transform 0.5s ease-in;
 
     animation-name: moveRight;
@@ -355,6 +355,12 @@ section {
     }
   }
 
+  .link:hover {
+    -ms-transform: scale(1.9); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.2);
+  }
+
   /* /SIDE SECTION/ */
 
   .image-container {
@@ -363,17 +369,17 @@ section {
 
   .fig5 {
     width: 320px;
-    height: 390px;
+    height: 380px;
   }
 
   .fig4 {
     width: 110px;
-    height: 220px;
+    height: 200px;
   }
 
   .fig2 {
     width: 170px;
-    height: 220px;
+    height: 200px;
   }
 
   .second-container {
