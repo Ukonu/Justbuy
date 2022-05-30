@@ -137,7 +137,7 @@ section {
   margin: auto;
   display: flex;
   justify-content: space-between;
-  gap: 45px;
+  gap: 50px;
 
   /* display: grid;
   grid-template: 1fr/ 2fr 2fr; */
