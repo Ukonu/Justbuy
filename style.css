@@ -395,7 +395,7 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding: 0px 10px;
+    padding: 0px 20px;
   }
 
   .sideh1 {
