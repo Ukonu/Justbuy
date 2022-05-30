@@ -254,6 +254,7 @@ section {
   display: flex;
 }
 .med {
+  color: black;
   background-color: #ffff;
   display: inline-block;
   font-size: 20px;
